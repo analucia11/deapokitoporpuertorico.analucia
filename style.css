@@ -182,7 +182,8 @@ max-height: 400px;
 align-items: center;
   margin-left: 100px;
 }
-a {
+a: link {
   color: white;
   font-family: 'Roboto';
+  text-decoration: none;
 }
