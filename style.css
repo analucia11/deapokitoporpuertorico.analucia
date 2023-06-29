@@ -182,7 +182,8 @@ max-height: 400px;
 align-items: center;
   margin-left: 100px;
 }
-href {
+.doc {
 color: #fff;
 font-family: 'Roboto';
+  text-align: center;
 }
