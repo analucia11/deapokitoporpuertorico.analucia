@@ -182,7 +182,7 @@ max-height: 400px;
 align-items: center;
   margin-left: 100px;
 }
-a:link {
-color: #fff;
-font-family: 'Roboto';
+a {
+  color: white;
+  font-family: 'Roboto';
 }
