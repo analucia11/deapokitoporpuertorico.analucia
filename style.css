@@ -182,7 +182,8 @@ max-height: 400px;
 align-items: center;
   margin-left: 100px;
 }
-.doc {
+a {
   color: white;
   text-decoration: none;
+  margin-left: 150px;
 }
