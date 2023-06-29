@@ -185,5 +185,5 @@ align-items: center;
 a {
   color: white;
   text-decoration: none;
-  margin-left: 50px;
+  float: center;
 }
