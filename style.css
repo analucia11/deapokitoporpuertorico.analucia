@@ -19,7 +19,6 @@ nav a:hover{
 nav a {
 text-decoration: none;
   margin-left:14px;
-  color:black;
   background-color:light salmon pink;
   border-radius:15px;
   padding-right: 9px;
@@ -194,7 +193,6 @@ align-items: center;
 nav a {
 text-decoration: none;
   margin-left:14px;
-  color:black;
   background-color:light salmon pink;
   border-radius:15px;
   padding-right: 9px;
@@ -203,5 +201,5 @@ text-decoration: none;
 }
 nav a:hover{
   background-color: melon;
-   filter: blur(1px); 
+  filter: blur(1px); 
 
