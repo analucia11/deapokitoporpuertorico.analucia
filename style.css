@@ -187,8 +187,6 @@ a {
 font-family:'Sacramento', cursive;
   text-decoration: none;
   color: white;
-  font-size: 50px;
-  padding:20px;
 }
 a: hover {
   background-color: white;
