@@ -13,13 +13,13 @@ font-family:'Sacramento', cursive;
   margin-bottom: 20px;
 }
 nav a:hover{
-  background-color: melon;
+  background-color:light-coral ;
   filter: blur(1px);  
 }
 nav a {
 text-decoration: none;
   margin-left:14px;
-  background-color:light salmon pink;
+  background-color:coral;
   border-radius:15px;
   padding-right: 9px;
   padding-left: 5px;
@@ -168,7 +168,6 @@ max-width: 50px;
 }
 .foot {
 margin-bottom: 50px;
-color: melon;
 }
 .mpic {
 max-width: 400px;
@@ -193,13 +192,13 @@ align-items: center;
 nav a {
 text-decoration: none;
   margin-left:14px;
-  background-color:light salmon pink;
+  background-color:coral;
   border-radius:15px;
   padding-right: 9px;
   padding-left: 5px;
   padding-top: 5px; 
 }
 nav a:hover{
-  background-color: melon;
+  background-color:light-coral;
   filter: blur(1px); 
 
