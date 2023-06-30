@@ -185,7 +185,10 @@ align-items: center;
 a {
 font-family:'Sacramento', cursive;
   text-align: center;
-  font-size:40px;
   text-decoration: none;
   color: white;  
 }
+a: hover {
+  background-color: #f7abab;
+}
+
