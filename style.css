@@ -13,7 +13,7 @@ font-family:'Sacramento', cursive;
   margin-bottom: 20px;
 }
 nav a:hover{
-  background-color:white;
+  background-color:lightsalmonpink;
   filter: blur(1px);  
 }
 nav a {
