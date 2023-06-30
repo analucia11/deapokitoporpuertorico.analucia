@@ -132,10 +132,10 @@ max-height: 350px;
   min-height: 300px;
   margin-left: 20px;
   margin-top: 20px;
-  cursor:hand;
 }
 img: hover {
 background-color: white;
+  cursor:hand;
 }
 iframe {
 margin:15px;
