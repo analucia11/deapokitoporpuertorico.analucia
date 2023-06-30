@@ -133,6 +133,9 @@ max-height: 350px;
   margin-left: 20px;
   margin-top: 20px;
 }
+img: hover {
+background-color: white;
+}
 iframe {
 margin:15px;
 margin-left:40px;
