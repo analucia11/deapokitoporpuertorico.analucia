@@ -182,26 +182,5 @@ max-height: 400px;
 align-items: center;
   margin-left: 100px;
 }
-.doc {
-  font-family:'Sacramento', cursive;
-  text-align: center;
-  font-size:40px;
-  text-decoration: none;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-nav a {
-text-decoration: none;
-  margin-left:14px;
-  background-color:light-coral;
-  border-radius:15px;
-  padding-right: 9px;
-  padding-left: 5px;
-  padding-top: 5px; 
-  color:black;
-}
-nav a:hover{
-  background-color:light-coral;
-  filter: blur(1px); 
-}
+
 
