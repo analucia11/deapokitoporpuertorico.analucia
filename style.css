@@ -182,5 +182,8 @@ max-height: 400px;
 align-items: center;
   margin-left: 100px;
 }
+watermark {
+font-family: 'Roboto';
+}
 
 
