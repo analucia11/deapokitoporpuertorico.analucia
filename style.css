@@ -10,6 +10,7 @@ font-family:'Sacramento', cursive;
   font-size:40px;
   text-decoration: none;
   padding: 20px;
+  margin-bottom: 20px;
 }
 nav a:hover{
   background-color: #f7abab;
