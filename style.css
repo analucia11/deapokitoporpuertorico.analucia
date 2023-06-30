@@ -13,7 +13,7 @@ font-family:'Sacramento', cursive;
   margin-bottom: 20px;
 }
 nav a:hover{
-  background-color: #f7abab;
+  background-color: melon;
   filter: blur(1px);  
 }
 nav a {
@@ -201,6 +201,6 @@ text-decoration: none;
   padding-top: 5px; 
 }
 nav a:hover{
-  background-color: #f7abab;
+  background-color: melon;
    filter: blur(1px); 
 
