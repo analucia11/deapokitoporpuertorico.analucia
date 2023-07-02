@@ -135,8 +135,8 @@ max-height: 350px;
   cursor:pointer;
 }
 img a: hover {
-background-color:palepink;
-  filter: blur(1px);  
+background-color:white;
+filter: blur(1px);  
 }  
 iframe {
 margin:15px;
